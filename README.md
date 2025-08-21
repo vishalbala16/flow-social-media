@@ -1,3 +1,7 @@
+
+![flow-logo](https://github.com/user-attachments/assets/583b9581-06c7-42a1-807d-bbec67d91bdc)
+
+
 # FLOW - Unique Social Media Platform
 
 A beautiful, secure, and minimalistic social media platform where users can share their thoughts and connect with others in a flowing conversation.
