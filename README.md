@@ -82,8 +82,8 @@ FLOW combines the best of modern social media with a unique visual identity:
 
 1. **Clone Repository**
    ```bash
-   git clone <your-repo-url>
-   cd flow-app
+   git clone https://github.com/vishalbala16/flow-social-media.git
+   cd flow-social-media
    ```
 
 2. **Install Backend Dependencies**
